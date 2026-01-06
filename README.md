@@ -1,6 +1,3 @@
-Perfeito! Vou gerar um **arquivo `README.md` completo e organizado** para o seu projeto, baseado no que você passou, incluindo instalação, execução, endpoint, detalhes da rota e exemplos de requisição.
-
-Aqui está:
 
 ---
 
