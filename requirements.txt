@@ -1,0 +1,6 @@
+# requirements.txt - Dependências do projeto
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+whisper-openai==20231117
+torch==2.1.0
+python-multipart==0.0.6
