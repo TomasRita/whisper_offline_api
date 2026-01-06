@@ -69,7 +69,7 @@ Transcreve ou traduz um arquivo de áudio para texto.
 | Parâmetro | Tipo | Obrigatório | Descrição                                                                                  |
 | --------- | ---- | ----------- | ------------------------------------------------------------------------------------------ |
 | audio     | file | sim         | Arquivo de áudio (mp3, wav, m4a, ogg, flac, mp4, mpeg)                                     |
-| language  | str  | não         | Idioma do áudio ('pt', 'en', 'es'). Se não informado, detecta automaticamente              |
+| language  | str  | sim         | Idioma do áudio ('pt', 'en', 'es').             |
 | task      | str  | não         | Tipo de tarefa: 'transcribe' (transcrição) ou 'translate' (tradução). Padrão: 'transcribe' |
 
 **Exemplo de requisição com `curl`:**
