@@ -122,8 +122,5 @@ curl http://localhost:8000/health
 * Extensões suportadas: `.mp3, .wav, .m4a, .ogg, .flac, .mp4, .mpeg`.
 * Caso o arquivo tenha formato inválido, a API retorna erro `400`.
 
----
 
-Se você quiser, posso gerar também uma **versão visual mais “Redmine-style”**, com destaque em títulos e checklist de dependências, pronta para colar direto em Redmine ou outro sistema de documentação interna.
 
-Quer que eu faça isso?
